@@ -23,3 +23,6 @@
 ![image](28545E45-3B36-4896-878B-E35B014304AD_1_201_a.jpeg)
 
 *Today is a super hot day!!*
+
+
+[Lab Report 1](lab-report-1-week-2.html)
