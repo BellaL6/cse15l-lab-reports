@@ -25,4 +25,4 @@
 *Today is a super hot day!!*
 
 
-[Lab Report 1](lab-report-1-week-2.html) 
+[Lab Report 1](https://github.com/BellaL6/cse15l-lab-reports/blob/main/lab-report-1-week2.md) 
