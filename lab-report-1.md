@@ -40,15 +40,18 @@
 * You can logout the account by typing `exit` or pressing `control-D`
 * Then create a java file named anything you want, remember the file name should be `<filename>.java`
 * Inside the file, you can type anything you want. In my file, I have:
-<br>public class LabReport1 { <br>
-    <br>public static void main(String[] args) { <br>
-        <br>System.out.println(System.getProperty("os.name")); <br>
-        <br>System.out.println(System.getProperty("user.name")); <br>
-        <br>System.out.println(System.getProperty("user.home")); <br>
-        <br>System.out.println(System.getProperty("user.dir")); <br>
-        <br>System.out.println("Lab Report 1"); <br>
-    <br>} <br>
-<br>} <br>
+
+```
+public class LabReport1 {
+    public static void main(String[] args) {
+        System.out.println(System.getProperty("os.name"));
+        System.out.println(System.getProperty("user.name"));
+        System.out.println(System.getProperty("user.home"));
+        System.out.println(System.getProperty("user.dir"));
+        System.out.println("Lab Report 1");
+    }
+}
+```
 * After finishing edit the file, you now can move this file to the remote server with using `scp`
 * In the terminal, type `scp <filename>.java cs15lsp22zz@ieng6.ucsd.edu:~/`
 * enter your password, and then login to your account
