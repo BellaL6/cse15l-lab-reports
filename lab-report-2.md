@@ -12,7 +12,8 @@
 
 ### 3. Code change 3
 * [Fail-test#3](https://github.com/BellaL6/markdown-parser/blob/main/fail-test3.md)
-* 
+* [codeFail1](https://github.com/BellaL6/markdown-parser/commit/8166c94df3aaa1c9e5e330ade8306839cf9550d3)
+* [codeCorrect3](https://github.com/BellaL6/markdown-parser/commit/2d49b0babba2377af6c70d79170bffadfd3715a3)
 
 
 
