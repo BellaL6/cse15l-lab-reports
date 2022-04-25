@@ -2,7 +2,7 @@
 
 ### 1. Code change 1
 * [Fail-test#1](https://github.com/BellaL6/markdown-parser/blob/main/fail-test1.md)
-* [Fail-test1-output](fail-test1.output.png) -change
+* [Fail-test1-output](fail-test1.output.png)
 * [Fail-output-Symptom1](https://github.com/BellaL6/markdown-parser/commit/39b0e921f9115a0bb31da052a2f6f842f6f18daa?diff=unified)
 * [codeCorrect1](https://github.com/BellaL6/markdown-parser/commit/93e796c86f056da9ca8591185452ccf0892df525)
 * [Correct-output#1](code1correct.png)
@@ -10,7 +10,7 @@
 
 ### 2. Code change 2
 * [Fail-test#2](https://github.com/BellaL6/markdown-parser/blob/main/fail-test2.md)
-* [Fail-test2-output](fail-test2.output.png) -change
+* [Fail-test2-output](fail-test2.output.png)
 * [Fail-output-Symptom2](https://github.com/BellaL6/markdown-parser/commit/4ab65f268d9a5def542307b6f85d052c2fabc4de)
 * [codeCorrect2](https://github.com/BellaL6/markdown-parser/commit/19fa94dbfc7bea7cdf45a19c1c5ddd1222ec0559)
 * [Correct-output#2](code2corect.png)
