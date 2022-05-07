@@ -26,3 +26,5 @@
 
 
 [Lab Report 1](https://github.com/BellaL6/cse15l-lab-reports/blob/main/lab-report-1-week2.md) 
+
+[Lab Report 3 - Week 6](https://github.com/BellaL6/cse15l-lab-reports/blob/main/lab-report-3-week-6.md)
