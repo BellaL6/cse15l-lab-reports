@@ -14,7 +14,7 @@
 * used the `ssh` command to login my account with just using the alias `ieng6`:
 [login with **ieng6**](Choice%201/ssh%20login%20account%20with%20alias.png)
 * used the `scp` command to copy the file `FileCopy.java` to my account with just using the alias `ieng6`:
-[copy file to account with__ieng6__](Choice%201/scp%20copy%20file%20with%20alias.png)
+[copy file to account with **ieng6**](Choice%201/scp%20copy%20file%20with%20alias.png)
 * Show the location and file contents in my account after using `scp`:
 [Output after using **scp**](Choice%201/output%20from%20account%20after%20scp.png)
 
