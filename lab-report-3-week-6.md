@@ -12,11 +12,11 @@
 * Show the **_final edited_** `.ssh/config` file:
 [Output after nanoEdit](Choice%201/show%20output%20config%20after%20nanoEdit.png)
 * used the `ssh` command to login my account with just using the alias `ieng6`:
-[login with __ieng6__](Choice%201/ssh%20login%20account%20with%20alias.png)
+[login with **ieng6**](Choice%201/ssh%20login%20account%20with%20alias.png)
 * used the `scp` command to copy the file `FileCopy.java` to my account with just using the alias `ieng6`:
 [copy file to account with__ieng6__](Choice%201/scp%20copy%20file%20with%20alias.png)
 * Show the location and file contents in my account after using `scp`:
-[Output after using __scp__](Choice%201/output%20from%20account%20after%20scp.png)
+[Output after using **scp**](Choice%201/output%20from%20account%20after%20scp.png)
 
 
 ### 2. Setup Github Access from ieng6
