@@ -80,5 +80,10 @@
    ![compile and run in ssh - method 3](https://github.com/BellaL6/cse15l-lab-reports/blob/main/Choice%203/compile%20and%20run%20tests%203.png)
 
 * **Last Method**: copy the directory and login the account in **one line**; then inside the account: compile and run tests in **one line**:
-
+  * **Combine** `scp` and `ssh` in _one line_ to:
+    * **copy** the directory `markdown-parser`: 
+    ![copy directory](Choice%203/scp%20and%20ssh%20copy%20directory.png) 
+    * **compile and run** the `MarkdownParseTest.java`(in the _one line_ command of `login`, `compile`, and `run` test, we need to `cd` the directory to `markdown-parser` first, and then `compile` the `MarkdownParse.java`, after that to `compile` and `run` test).
+      * Since the classpath and runtime are different from "direct access to `ssh` account and **run and compile**" and "login `ssh` account **first** then **run and compile**", in this case we need to change `javac` to `/software/CSE/oracle-java-17/jdk-17.0.1/bin/javac` and change `java` to `/software/CSE/oracle-java-17/jdk-17.0.1/bin/java` when doing the **one-line** command. Below is how it works:
+       ![compile and run in ssh](Choice%203/scp%20and%20ssh%20run%20tests.png)  
 
