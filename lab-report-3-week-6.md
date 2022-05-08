@@ -1,21 +1,21 @@
 # Lab-Report-3
 
 ### 1. Streamlining ssh Configuration
-* Create a **_empty_** `.ssh/config` file:
+* **Create** a **_empty_** `.ssh/config` file:
 [Empty config](Choice%201/show%20empty%20config%20file.png)
-* Edit the `.ssh/config` file with **TextEdit**:
+* **Edit** the `.ssh/config` file with **TextEdit**:
 [TextEdit edit](Choice%201/edit%20config%20in%20TextEdit.png)
 * Show the **_first edited_** `.ssh/config` file:
 [Output after TextEdit](Choice%201/show%20output%20config%20after%20TestEdit.png)
-* Edit the `.ssh/config` file with **GNU nano**:
+* **Edit** the `.ssh/config` file with **GNU nano**:
 [nano edit](Choice%201/edit%20config%20in%20GNU%20nano.png)
 * Show the **_final edited_** `.ssh/config` file:
 [Output after nanoEdit](Choice%201/show%20output%20config%20after%20nanoEdit.png)
-* used the `ssh` command to login my account with just using the alias `ieng6`:
+* used the `ssh` command to **login** my account with just using the alias `ieng6`:
 [login with **ieng6**](Choice%201/ssh%20login%20account%20with%20alias.png)
-* used the `scp` command to copy the file `FileCopy.java` to my account with just using the alias `ieng6`:
+* used the `scp` command to **copy** the file `FileCopy.java` to my account with just using the alias `ieng6`:
 [copy file to account with **ieng6**](Choice%201/scp%20copy%20file%20with%20alias.png)
-* Show the location and file contents in my account after using `scp`:
+* Show the **location** and **file contents** in my account after using `scp`:
 [Output after using **scp**](Choice%201/output%20from%20account%20after%20scp.png)
 
 
