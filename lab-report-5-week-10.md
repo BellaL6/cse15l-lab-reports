@@ -12,9 +12,13 @@
 * For test-file `483.md`:
   * Which implementation is correct and which is incorrect? 
   * indicate the actual outputs for both implementaion, and the expected output 
+   * ![](Lab%20Report%205/Expected-test-file483.png)
+   * ![](Lab%20Report%205/actual-output483.png)
   * describe the bug (the problem in the code) in about 2-3 sentences. 
 
 * For test-file `487.md`:
   * Which implementation is correct and which is incorrect? 
   * indicate the actual outputs for both implementaion, and the expected output 
+   * ![](Lab%20Report%205/Expected-test-file487.png)
+   * ![](Lab%20Report%205/actual-output487.png)
   * describe the bug (the problem in the code) in about 2-3 sentences. 
