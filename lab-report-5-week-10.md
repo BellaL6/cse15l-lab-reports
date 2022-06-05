@@ -10,15 +10,31 @@
 
 ## 3. Description to each test:
 * For test-file `483.md`:
+  * **_Expected Output_ of `483.md`:**
+![expected Output of `483.md`](Lab%20Report%205/Expected-test-file483.png)
+according to this picture, the Expected output should be: `[]`
+
+  * **_Actual Output_ of `483.md`:** 
+    * **_Left side_ is `my-markdown-parser`; _Right side_ is `cse15lsp22-markdown-parser`**
+![actual Output of `483.md`](Lab%20Report%205/actual-output483.png)
+
   * Which implementation is correct and which is incorrect? 
-  * indicate the actual outputs for both implementaion, and the expected output 
-   * ![](Lab%20Report%205/Expected-test-file483.png)
-   * ![](Lab%20Report%205/actual-output483.png)
+    * comparing each actual output with the expected output, the implementation of `MarkdownParse.java` in `my-markdown-parser` is correct, and another implementation of `MarkdownParse.java` in `cse15lsp22-markdown-parser` is wrong. 
+  
   * describe the bug (the problem in the code) in about 2-3 sentences. 
+    * the bug in `cse15lsp22-markdown-parser/MarkdownParse.java` is:  
 
 * For test-file `487.md`:
+  * **_Expected Output_ of `487.md`:**
+![](Lab%20Report%205/Expected-test-file487.png)
+according to this picture, the Expected output should be: `[]`
+
+  * **_Actual Output_ of `487.md`:** 
+    * **_Left side_ is `my-markdown-parser`; _Right side_ is `cse15lsp22-markdown-parser`**
+![](Lab%20Report%205/actual-output487.png)
+
   * Which implementation is correct and which is incorrect? 
-  * indicate the actual outputs for both implementaion, and the expected output 
-   * ![](Lab%20Report%205/Expected-test-file487.png)
-   * ![](Lab%20Report%205/actual-output487.png)
+    *  comparing each actual output with the expected output, the implementation of `MarkdownParse.java` in `cse15lsp22-markdown-parser` is correct, and another implementation of `MarkdownParse.java` in `my-markdown-parser` is wrong.
+
   * describe the bug (the problem in the code) in about 2-3 sentences. 
+    * the bug in `my-markdown-parser/MarkdownParse.java` is:  
