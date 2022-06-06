@@ -24,6 +24,8 @@
   * **describe the bug (the problem in the code) in about 2-3 sentences.** 
     * the bug in `cse15lsp22-markdown-parser/MarkdownParse.java` is:  
       * The bug occurred in the `ArrayList<String> getLinks(String markown)`. In this static method, this implementation of `MarkdownParse.java` considered cases when the `linkname` contains characters such as: `/`, which will not show in the `Preview`. But it ignores the case when the `linkname` is empty. When the `linkname` is empty, then this whole link will **not** be counted as a **formal link** and will **_NOT_** include into the **output list**.   
+      * Below is the part inside the `MarkdownParse.java` which we should edit and fix: 
+        ![cse15lsp22-codeToChange](https://github.com/BellaL6/cse15l-lab-reports/blob/main/Lab%20Report%205/cse15lsp22-markdown-parser-code.png)
 
 * For test-file `487.md`:
   * **_Expected Output_ of `487.md`:**
@@ -39,4 +41,6 @@
 
   * **describe the bug (the problem in the code) in about 2-3 sentences.**
     * the bug in `my-markdown-parser/MarkdownParse.java` is:
-      * The bug occurred in the `ArrayList<String> getLinks(String markown)`. In this static method, my implementation of `MarkdownParse.java` didn't consider the case when the link **_contains other characters**_(EX: `/`) that will **change** the whole link format to a _simple String_. So when the `link` didn't contain other format issues that will **change** the link to an `image` or basically **cannot form** to a `link`, the output will contain this `link`.    
+      * The bug occurred in the `ArrayList<String> getLinks(String markown)`. In this static method, my implementation of `MarkdownParse.java` didn't consider the case when the link **_contains other characters**_(EX: `/`) that will **change** the whole link format to a _simple String_. So when the `link` didn't contain other format issues that will **change** the link to an `image` or basically **cannot form** to a `link`, the output will contain this `link`. 
+      * Below is the part inside the `MarkdownParse.java` which we should edit and fix: 
+        ![my-codeToChange](https://github.com/BellaL6/cse15l-lab-reports/blob/main/Lab%20Report%205/my-markdown-parser-code.png)   
