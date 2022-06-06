@@ -8,7 +8,7 @@ _From the `Preview` of fail-test1, we noticed that only the **first** and **thir
 * failure output #1 **_symptom History_**: [Fail-output-Symptom1](https://github.com/BellaL6/markdown-parser/commit/39b0e921f9115a0bb31da052a2f6f842f6f18daa?diff=unified)
 
 * code change **_Correction_ #1**: [codeCorrect1](https://github.com/BellaL6/markdown-parser/commit/93e796c86f056da9ca8591185452ccf0892df525)
-* ![codeChangeHistory1](%231%20change.png)
+* code change **History 1**: ![codeChangeHistory1](%231%20change.png)
 * **_final_ Output Screenshot 1**: ![Correct-output#1](code1correct.png)
 _Now the output was updated and correct since it only contains valid links._
 
@@ -20,7 +20,7 @@ _From the `Preview` of fail-test2, we noticed that the link with **image** prefe
 * failure output #2 **_symptom History_**: [Fail-output-Symptom2](https://github.com/BellaL6/markdown-parser/commit/4ab65f268d9a5def542307b6f85d052c2fabc4de)
 
 * code change **_Correction_ #2**: [codeCorrect2](https://github.com/BellaL6/markdown-parser/commit/19fa94dbfc7bea7cdf45a19c1c5ddd1222ec0559)
-                            ![codeChangeHistory2](%232%20change.png)
+* code change **History 2**: ![codeChangeHistory2](%232%20change.png)
 * **_final_ Output Screenshot 2**: ![Correct-output#2](code2correct.png)
 _Now the output is correct because it contains all **valid links** and excludes the `link` with **image** reference._ 
 
@@ -50,7 +50,7 @@ _this code change did help me fix the runtime, now I can get an output fast. How
 * failure output **#3.1 _symptom History_**: [Fail-ouput-Symptom3.1](https://github.com/BellaL6/markdown-parser/commit/d809a7bb5c185cb2f291afa9bcf4fcc95b84daad)
 
 * code change **_Correction_ #3**:[codeCorrect3](https://github.com/BellaL6/markdown-parser/commit/2d49b0babba2377af6c70d79170bffadfd3715a3)
-                           ![codeChangeHistory3](%233.3%20change.png)
+* code change **History 3**: ![codeChangeHistory3](%233.3%20change.png)
 * **_final_ Output 3**: ![Correct-output#3](code3correct.png)
 _Now the runtime is fast and the actual output contains none of links, which matches to the expected outcome._
 
